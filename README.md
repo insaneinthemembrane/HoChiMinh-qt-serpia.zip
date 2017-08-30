@@ -1,7 +1,7 @@
 # README #
 
-Ho-Chi-Minh-qt
+HoChiMinh-qt
 
 
-[Download Ho-Chi-Minh-qt at Bitbucket](https://bitbucket.org/yalta1945/ho-chi-minh-qt/downloads/)
+[Download Ho-Chi-Minh-qt at Bitbucket](https://bitbucket.org/yalta1945/hochiminh-qt/downloads/)
 
